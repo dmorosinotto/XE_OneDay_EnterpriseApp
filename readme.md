@@ -1,4 +1,6 @@
-# Micro Apps Sample
+# XE OneDay - Frontend solutions for Enterprise App
+
+[Slides](slides.pdf) of my Session at XE OneDay - 25/05/2019
 
 ## Start
 
@@ -8,5 +10,6 @@ npm i
 npm start
 ```
 
-## Todo
-Currently, there is no automatic build task that copies the bundles of the micro apps over to the shell's assets folder. This will be implemented in the next days.
+## DEMO
+
+All credits for DEMO code go to @manfredsteyer original [Repo](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
