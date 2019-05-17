@@ -12,4 +12,4 @@ npm start
 
 ## DEMO
 
-All credits for DEMO code go to @manfredsteyer original [Repo](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
+All credits for DEMO code go to **[@manfredsteyer](https://github.com/manfredsteyer)** original [Repo](https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies)
